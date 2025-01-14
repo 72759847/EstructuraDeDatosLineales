@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ListaSE
+comment1.params=
+comment1.target=ListaSE()
+comment2.params=valor
+comment2.target=void\ add(java.lang.Object)
+comment3.params=valor
+comment3.target=void\ add2(java.lang.Object)
+comment4.params=valor\ ac
+comment4.target=void\ add2(java.lang.Object,\ NodoSE)
+numComments=5
